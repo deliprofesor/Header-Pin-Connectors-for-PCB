@@ -1,6 +1,6 @@
 # Header-Pin-Connectors-for-PCB
 
-
+![90-1_m](https://github.com/user-attachments/assets/e78dcbbc-aa9e-4638-ad92-66f3afb26288) ![1X6_M_180](https://github.com/user-attachments/assets/00df5dbd-bdc9-40b6-bafe-e34aa486b36d)
 
 **Proje Adı:** Header Kütüphanesi ve 3D Modelleri Oluşturma
 **Kullanılan Yazılım:** Altium Designer
@@ -68,3 +68,16 @@ Verimlilik: Tasarım sürecinde tekrar eden görevlerden kaçınılarak, proje s
 ## Sonuç
 
 1, 2 ve 3 rows header kütüphanelerinin oluşturulması, gelecekteki projelerde kullanılabilir ve tekrar kullanılabilir bileşenler sağladı. Ayrıca, her bir header tipi için detaylı şematik semboller, footprint’ler ve 3D modeller entegre edilerek, tasarım sürecinde verimlilik, doğruluk ve hız artırıldı.
+
+
+## İletişim
+
+**Not**: Şu an için yalnızca **1 Sıra Header'lar** kütüphaneye eklenmiştir. Tüm kütüphane hakkında daha fazla bilgi ve kullanım için iletişime geçmeniz gerekmektedir.
+
+## Katkıda Bulunma
+
+Bu projeye katkıda bulunmak isterseniz, yeni header türleri ekleyerek veya mevcut bileşenleri iyileştirerek bir pull request (çekme isteği) gönderebilirsiniz. Lütfen bileşenlerin adlandırma ve standartlara uygun olmasına dikkat edin.
+
+## Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE.md](LICENSE.md) dosyasını inceleyebilirsiniz.
