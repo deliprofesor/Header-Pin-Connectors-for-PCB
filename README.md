@@ -1,6 +1,6 @@
 # Header-Pin-Connectors-for-PCB
 
-![90-1_m](https://github.com/user-attachments/assets/e78dcbbc-aa9e-4638-ad92-66f3afb26288) ![1X6_M_180](https://github.com/user-attachments/assets/00df5dbd-bdc9-40b6-bafe-e34aa486b36d)
+![1X9_F_90](https://github.com/user-attachments/assets/cf564546-072b-4bcb-8c36-fcc3f8532498) ![1X6_M_180](https://github.com/user-attachments/assets/00df5dbd-bdc9-40b6-bafe-e34aa486b36d)
 
 **Proje Adı:** Header Kütüphanesi ve 3D Modelleri Oluşturma
 **Kullanılan Yazılım:** Altium Designer
