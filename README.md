@@ -1,5 +1,7 @@
 # Header-Pin-Connectors-for-PCB
 
+
+
 **Proje Adı:** Header Kütüphanesi ve 3D Modelleri Oluşturma
 **Kullanılan Yazılım:** Altium Designer
 **Proje Amacı:** Elektronik devre tasarımlarında kullanılacak 1, 2 ve 3 rows header’ların şematik ve PCB kütüphanelerini oluşturmak ve her bir header tipi için 3D modelleri entegre ederek tasarım sürecinde verimliliği artırmak.
@@ -30,19 +32,19 @@ Her header tipi, devredeki sinyalleri ve güç bağlantılarını iletmek için 
    
 ## Kütüphane İçeriği
 
-## 1 Row Header Kütüphanesi:
+- **1 Row Header Kütüphanesi:**
 Dişi (Female) 90° – 10 Adet
 Dişi (Female) 180° – 10 Adet
 Erkek (Male) 90° – 40 Adet
 Erkek (Male) 180° – 40 Adet
 
-## 2 Row Header Kütüphanesi:
+- **2 Row Header Kütüphanesi:**
 Dişi (Female) 90° – 10 Adet
 Dişi (Female) 180° – 20 Adet
 Erkek (Male) 90° – 12 Adet
 Erkek (Male) 180° – 40 Adet
 
-## 3 Row Header Kütüphanesi:
+- **3 Row Header Kütüphanesi:**
 Dişi (Female) 90° – 16 Adet
 Dişi (Female) 180° – 16 Adet
 Erkek (Male) 90° – 12 Adet
